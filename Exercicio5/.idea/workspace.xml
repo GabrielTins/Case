@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f977574b-cf88-49f6-b374-471ef9890942" name="Default Changelist" comment="" />
+    <list default="true" id="7d3b44df-47a0-4dd9-b3a9-f242da0a86c7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1UiBebS5yFq1DqGDW14SQwFfTJl" />
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="ProjectId" id="1UisfMVWDwWAJI7leMYILLtXIxk" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -36,16 +29,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio4" />
-      <module name="Exercicio4" />
+    <configuration name="Exercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio5" />
+      <module name="Exercicio5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio4" />
+        <item itemvalue="Application.Exercicio5" />
       </list>
     </recent_temporary>
   </component>
@@ -54,18 +47,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f977574b-cf88-49f6-b374-471ef9890942" name="Default Changelist" comment="" />
-      <created>1575829631573</created>
+      <changelist id="7d3b44df-47a0-4dd9-b3a9-f242da0a86c7" name="Default Changelist" comment="" />
+      <created>1575850852326</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575829631573</updated>
+      <updated>1575850852326</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1575846539568">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575846539568" />
   </component>
 </project>
